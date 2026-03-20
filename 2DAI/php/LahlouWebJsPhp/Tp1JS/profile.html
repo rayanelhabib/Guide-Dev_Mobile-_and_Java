@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <title>
+            2DAI DMW TP-1
+        </title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
+
+    </head>
+    <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+
+            <div class="d-flex align-items-center">
+                <a class="navbar-brand mb-0" href="index.html">BTS DAI</a>
+
+                <div class="navbar-nav">
+                    <a class="nav-link text-light" href="index.html">Accueil</a>
+                </div>
+            </div>
+
+            <a class="btn btn-outline-light ml-auto" href="index.html">Deconnexion</a>
+
+        </div>
+    </nav><br>
+    <h1 class="text-center">Profile</h1>
+
+    
+    <div class="container-fluid d-flex justify-content-center align-items-center" style="min-height: 90vh;">
+
+        <div class="col-md-6 col-lg-5">
+
+            <div class="card shadow-lg">
+                <div class="card-body">
+
+                    <h3 class="text-center mb-4">
+                        <i class="bi bi-person-circle"></i>
+                        Profil Administrateur
+                    </h3>
+
+                    <hr>
+
+                    <!-- Nom -->
+                    <div class="d-flex align-items-center mb-3">
+                        <i class="bi bi-person-fill text-primary mr-3" style="font-size: 1.5rem;"></i>
+                        <div>
+                            <strong>Nom :</strong>
+                            <div id="nom">---</div>
+                        </div>
+                    </div>
+
+                    <!-- Téléphone -->
+                    <div class="d-flex align-items-center mb-3">
+                        <i class="bi bi-telephone-fill text-success mr-3" style="font-size: 1.5rem;"></i>
+                        <div>
+                            <strong>Telephone :</strong>
+                            <div id="telephone">---</div>
+                        </div>
+                    </div>
+
+                    <!-- Email -->
+                    <div class="d-flex align-items-center mb-3">
+                        <i class="bi bi-envelope-fill text-warning mr-3" style="font-size: 1.5rem;"></i>
+                        <div>
+                            <strong>Email :</strong>
+                            <div id="email">---</div>
+                        </div>
+                    </div>
+
+                    <!-- Password -->
+                    <div class="d-flex align-items-center">
+                        <i class="bi bi-lock-fill text-danger mr-3" style="font-size: 1.5rem;"></i>
+                        <div>
+                            <strong>Mot de passe :</strong>
+                            <div id="password">---</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+        <script src="functions/emailValide.js"></script>
+        <script src="functions/inscription.js"></script>
+        <script src="functions/connexion.js"></script>
+        <script src="functions/afficherProfile.js"></script>
+        <script src="scriptDMW.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>

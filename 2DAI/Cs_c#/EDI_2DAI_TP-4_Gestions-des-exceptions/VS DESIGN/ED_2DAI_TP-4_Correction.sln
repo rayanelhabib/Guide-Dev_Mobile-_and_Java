@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED_2DAI_TP-4_Correction", "ED_2DAI_TP-4_Correction.csproj", "{D55C7A1F-C741-4F14-8B25-4571031AB2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55C7A1F-C741-4F14-8B25-4571031AB2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55C7A1F-C741-4F14-8B25-4571031AB2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55C7A1F-C741-4F14-8B25-4571031AB2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55C7A1F-C741-4F14-8B25-4571031AB2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54408857-D70C-41CF-AB3A-8C445F2E7D2E}
+	EndGlobalSection
+EndGlobal

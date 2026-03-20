@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\bin\Debug\passage_1dai.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\bin\Debug\passage_1dai.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\bin\Debug\passage_1dai.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.Inscription.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.login.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\Evaluation\S3\CC1\2024-2025 normalement examen passage 1dai\passage_1dai\obj\Debug\passage_1dai.pdb

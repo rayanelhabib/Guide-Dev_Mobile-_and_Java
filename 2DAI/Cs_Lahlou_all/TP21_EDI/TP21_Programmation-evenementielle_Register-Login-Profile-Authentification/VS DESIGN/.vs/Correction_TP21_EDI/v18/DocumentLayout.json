@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|c:\\users\\elhab\\downloads\\cs_lahlou_all\\tp21_edi\\tp21_programmation-evenementielle_register-login-profile-authentification\\vs design\\donnees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|solutionrelative:donnees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|c:\\users\\elhab\\downloads\\cs_lahlou_all\\tp21_edi\\tp21_programmation-evenementielle_register-login-profile-authentification\\vs design\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|c:\\users\\elhab\\downloads\\cs_lahlou_all\\tp21_edi\\tp21_programmation-evenementielle_register-login-profile-authentification\\vs design\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|c:\\users\\elhab\\downloads\\cs_lahlou_all\\tp21_edi\\tp21_programmation-evenementielle_register-login-profile-authentification\\vs design\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|solutionrelative:login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|solutionrelative:profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F71EAA6-6D0B-4562-A072-67C14E204DEA}|Correction_TP21_EDI.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.resx",
+              "DocumentMoniker": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\login.resx",
+              "RelativeDocumentMoniker": "login.resx",
+              "ToolTip": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\login.resx",
+              "RelativeToolTip": "login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-23T10:07:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\login.Designer.cs",
+              "RelativeDocumentMoniker": "login.Designer.cs",
+              "ToolTip": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\login.Designer.cs",
+              "RelativeToolTip": "login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:07:24.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:06:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Donnees.cs",
+              "DocumentMoniker": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Donnees.cs",
+              "RelativeDocumentMoniker": "Donnees.cs",
+              "ToolTip": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Donnees.cs",
+              "RelativeToolTip": "Donnees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:06:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:06:45.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Amine\\My office\\BOULOT\\Enseignement\\BTS\\DAI\\EDI\\1 ann\u00E9e\\TP\\Ennonc\u00E9\\PDF\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\pc\\Desktop\\Amine\\My office\\BOULOT\\Enseignement\\BTS\\DAI\\EDI\\1 ann\u00E9e\\TP\\Ennonc\u00E9\\PDF\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-23T10:06:45.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elhab\\Downloads\\Cs_Lahlou_all\\TP21_EDI\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Profile.cs",
+              "RelativeDocumentMoniker": "Profile.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Amine\\My office\\BOULOT\\Enseignement\\BTS\\DAI\\EDI\\1 ann\u00E9e\\TP\\Ennonc\u00E9\\PDF\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Profile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\pc\\Desktop\\Amine\\My office\\BOULOT\\Enseignement\\BTS\\DAI\\EDI\\1 ann\u00E9e\\TP\\Ennonc\u00E9\\PDF\\TP21_Programmation-evenementielle_Register-Login-Profile-Authentification\\VS DESIGN\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-23T10:06:45.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

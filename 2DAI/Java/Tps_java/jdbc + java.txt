@@ -1,0 +1,236 @@
+
+
+
+public Demmand delDemmand(long ref) {
+	for(int i = 0; i <= demmands.length; i++) {
+		if (demmands[i].getRef() == ref) {
+			return demmands.remove(i);
+		}
+	}
+	return null;
+}
+
+
+public void saveDemandes(String nomFichier) {
+	try {
+		ObjectOutputStream os = new ObjectOutputStream(new FileOutputStream(nomFichier));	
+		os.writeObject(lesDemandes);
+		os.close();
+		
+	} catch (IOException e) {
+		e.PrintStackTrace();
+	}
+}
+
+public void readDemmandes(String nomFichier) {
+	try {
+		ObjectInputStream is = new ObjectInputStream(new FileInputStream(nomFichier));
+		lesDemandes = (ArrayList<Demande>) is.readObject();
+		is.close();
+	} catch (IOEXception e) {
+		e.printStackTrace();
+	}
+}
+
+
+
+
+JDBC:
+
+
+import java.sql.*;
+
+public static class DBConnection {
+	public static Connection getConnection(){
+		Connection cnx = null;
+		try {
+			String url = "jdbc:mysql://localhost:3306/testdb"
+			String user = "root"
+			String pass = "";
+			cnx = DriverManager.getConnection(url, user, pass);
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return cnx;
+	}
+}
+
+
+Connection cnx = DBConnection.getConnection();
+try {
+	String sql = "INSERT INTO Client (nom, email) VALUES (?, ?)";
+	PreparedStatement ps = cnx.prepareStatement(sql);
+	ps.setString(1, "sara");
+	ps.setString(2, "sara@mail.com");
+	
+	ps.executeUpdate();
+	ps.close();
+	cnx.close();
+}catch (SQLException e) {
+	e.printStackTrace();
+}
+
+**?? update b7al insert b7al delete ".executeUpdate()"
+---------------------------------
+
+try {
+	String sql = "Select * from client where nom = ?";
+	PreparedStatement ps = cnx.prepareStatement(sql);
+	ps.setString(1, "sara");
+	ResultSet rs = ps.executeQuery();
+	
+	while (rs.next()) {
+		//rs.getInt("id")
+		//rs.getString("nom")
+		//rs.getString("email")
+	}
+catch(SQLException e) {
+	e.printStackTrace();
+}
+
+search b7al get
+------------------------------------
+
+
+
+
+// Server / Client
+
+
+
+// Server
+
+class Server {
+	public static void main() {
+		int port = 3737;
+		try {
+			ServerSocket sc = new ServerSocket(port);
+			
+			while (true) {
+				Socket clientSocket = serverSocket.accept();
+				HandleClient hc = new HandleClient(clientSocket);
+				Thread t = new Thread(hc);
+				t.start();			
+			}
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+	}
+}
+
+
+class HandleClient implement Runnable {
+	Socket s;
+	public HandleClient(Socket clientSocket) {
+		s = clientSocket;
+	}
+	@Override
+	public void run() {
+	
+		BufferedReader in = new BufferedReader(new InputStreamReader(s.getInputStream()));
+		PrintWriter out = new PrintWriter(s.getOutputStream(), true);
+		
+		String message;
+		while ((message = in.readLine() != null)) {
+			System.out.println("client dit: " + message);
+			out.println("server received: " + message);	
+		}
+		clientSocket.close();
+	}
+}
+
+
+
+
+
+// 1 client
+
+class Server {
+	public static void main() {
+		int port = 3737;
+		try {
+			ServerSocket sc = new ServerSocket(port);
+			Socket clientSocket = sc.accept();
+			BufferedReader in = new BufferedReader(new InputStreamReader(s.getInputStream()));
+			PrintWriter out = new PrintWriter(s.getOutputStream(), true);
+			String message = in.readLine();
+			System.out.println(message);
+			out.println("sir t7wa, mab9atch ram, 3amra 3amra");
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+	}
+}
+
+// Client
+
+class Client {
+	public Client() {
+		Socket s = new Socket("localhost", 3737);
+		BufferedReader in = new BufferedReader(new InputStreamReader(s.getInputStream()));
+		PrintWriter out = new PrintWriter(s.getOutputStream(), true);
+		
+		Scanner s = new Scanner(System.in);
+		System.out.Println("Entrer message: ");
+		String message = s.nextLine();
+
+		out.println(message);
+		String reponse = in.readLine();
+		System.out.println(reponse);
+
+		s.close();
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

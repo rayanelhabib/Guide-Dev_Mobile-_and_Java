@@ -1,0 +1,234 @@
+package jfra;
+import java.sql.*;
+import javax.swing.*;
+import javax.swing.table.DefaultTableModel;
+import java.awt.*;
+
+public class FenetreEtudiants extends JFrame {
+
+    // Champs formulaire
+    private JTextField txtPrenom;
+    private JTextField txtNom;
+    private JTextField txtEmail;
+    private JTextField txtDate;
+    private JTextField txtRecherche;
+
+    // Tableau
+    private JTable table;
+    private DefaultTableModel model;
+
+    // Connexion DB
+    private final String URL = "jdbc:mysql://localhost:3306/gestionetudiants";
+    private final String USER = "root";
+    private final String PASSWORD = "";
+
+    public FenetreEtudiants() {
+        setTitle("Gestion des étudiants");
+        setSize(800, 500);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLayout(new BorderLayout());
+
+        initUI();
+
+        setVisible(true);
+    }
+
+    private void initUI() {
+
+        /* =======================
+           NORTH : Formulaire
+           ======================= */
+        JPanel panelForm = new JPanel(new GridLayout(2, 4, 5, 5));
+
+        txtPrenom = new JTextField();
+        txtNom = new JTextField();
+        txtEmail = new JTextField();
+        txtDate = new JTextField();
+        txtRecherche = new JTextField(10);
+
+        panelForm.add(new JLabel("Prénom"));
+        panelForm.add(txtPrenom);
+        panelForm.add(new JLabel("Nom"));
+        panelForm.add(txtNom);
+
+        panelForm.add(new JLabel("Email"));
+        panelForm.add(txtEmail);
+        panelForm.add(new JLabel("Date (YYYY-MM-DD)"));
+        panelForm.add(txtDate);
+
+        add(panelForm, BorderLayout.NORTH);
+
+        /* =======================
+           CENTER : JTable
+           ======================= */
+        String[] colonnes = {"ID", "Prénom", "Nom", "Email", "Date inscription"};
+        model = new DefaultTableModel(colonnes, 0);
+        table = new JTable(model);
+
+        JScrollPane scrollPane = new JScrollPane(table);
+        add(scrollPane, BorderLayout.CENTER);
+
+        /* =======================
+           SOUTH : Boutons
+           ======================= */
+        JPanel panelButtons = new JPanel(new FlowLayout());
+
+        JButton btnImporter = new JButton("Importer");
+        JButton btnAjouter = new JButton("Ajouter");
+        JButton btnRechercher = new JButton("Rechercher");
+        JButton btnSupprimer = new JButton("Supprimer");
+        JButton btnVider = new JButton("Vider");
+        JButton btnQuitter = new JButton("Quitter");
+
+        panelButtons.add(btnImporter);
+        panelButtons.add(btnAjouter);
+        panelButtons.add(new JLabel("Mot clé"));
+        panelButtons.add(txtRecherche);
+        panelButtons.add(btnRechercher);
+        panelButtons.add(btnSupprimer);
+        panelButtons.add(btnVider);
+        panelButtons.add(btnQuitter);
+
+        add(panelButtons, BorderLayout.SOUTH);
+
+        /* =======================
+           Actions des boutons
+           ======================= */
+        btnImporter.addActionListener(e -> importer());
+        btnAjouter.addActionListener(e -> ajouter());
+        btnRechercher.addActionListener(e -> rechercher());
+        btnSupprimer.addActionListener(e -> supprimer());
+        btnVider.addActionListener(e -> model.setRowCount(0));
+        btnQuitter.addActionListener(e -> System.exit(0));
+    }
+
+    /* =======================
+       IMPORTER (SELECT)\00000000000000000000000000000
+       ======================= */
+    private void importer() {
+        model.setRowCount(0);
+
+        String sql = "SELECT id, prenom, nom, email, dateinscription FROM etudiant";
+
+        try (Connection conn = DriverManager.getConnection(URL, USER, PASSWORD);
+             PreparedStatement ps = conn.prepareStatement(sql);
+             ResultSet rs = ps.executeQuery()) {
+
+            while (rs.next()) {
+                Object[] row = {
+                        rs.getInt("id"),
+                        rs.getString("prenom"),
+                        rs.getString("nom"),
+                        rs.getString("email"),
+                        rs.getDate("dateinscription")
+                };
+                model.addRow(row);
+            }
+
+        } catch (Exception ex) {
+            JOptionPane.showMessageDialog(this, "Erreur : " + ex.getMessage());
+        }
+    }
+
+    /* =======================
+       AJOUTER (INSERT)
+       ======================= */
+    private void ajouter() {
+
+        String prenom = txtPrenom.getText();
+        String nom = txtNom.getText();
+        String email = txtEmail.getText();
+        String date = txtDate.getText();
+
+        if (prenom.isEmpty() || nom.isEmpty() || email.isEmpty() || date.isEmpty()) {
+            JOptionPane.showMessageDialog(this, "Tous les champs sont obligatoires");
+            return;
+        }
+
+        String sql = "INSERT INTO etudiant(prenom, nom, email, dateinscription) VALUES (?, ?, ?, ?)";
+
+        try (Connection conn = DriverManager.getConnection(URL, USER, PASSWORD);
+             PreparedStatement ps = conn.prepareStatement(sql)) {
+
+            ps.setString(1, prenom);
+            ps.setString(2, nom);
+            ps.setString(3, email);
+            ps.setDate(4, Date.valueOf(date));
+
+            ps.executeUpdate();
+
+            importer(); // rafraîchir tableau
+
+            txtPrenom.setText("");
+            txtNom.setText("");
+            txtEmail.setText("");
+            txtDate.setText("");
+
+        } catch (Exception ex) {
+            JOptionPane.showMessageDialog(this, "Erreur : " + ex.getMessage());
+        }
+    }
+
+    /* =======================
+       RECHERCHER (LIKE)
+       ======================= */
+    private void rechercher() {
+        model.setRowCount(0);
+
+        String sql = "SELECT * FROM etudiant WHERE nom LIKE ? OR prenom LIKE ?";
+
+        try (Connection conn = DriverManager.getConnection(URL, USER, PASSWORD);
+             PreparedStatement ps = conn.prepareStatement(sql)) {
+
+            String motCle = "%" + txtRecherche.getText() + "%";
+            ps.setString(1, motCle);
+            ps.setString(2, motCle);
+
+            ResultSet rs = ps.executeQuery();
+
+            while (rs.next()) {
+                model.addRow(new Object[]{
+                        rs.getInt("id"),
+                        rs.getString("prenom"),
+                        rs.getString("nom"),
+                        rs.getString("email"),
+                        rs.getDate("dateinscription")
+                });
+            }
+
+        } catch (Exception ex) {
+            JOptionPane.showMessageDialog(this, "Erreur : " + ex.getMessage());
+        }
+    }
+
+    /* =======================
+       SUPPRIMER (DELETE)
+       ======================= */
+    private void supprimer() {
+        int row = table.getSelectedRow();
+        if (row == -1) {
+            JOptionPane.showMessageDialog(this, "Sélectionnez une ligne");
+            return;
+        }
+
+        int id = (int) model.getValueAt(row, 0);
+
+        int confirm = JOptionPane.showConfirmDialog(this,
+                "Voulez-vous supprimer cet étudiant ?");
+
+        if (confirm != JOptionPane.YES_OPTION) return;
+
+        String sql = "DELETE FROM etudiant WHERE id=?";
+
+        try (Connection conn = DriverManager.getConnection(URL, USER, PASSWORD);
+             PreparedStatement ps = conn.prepareStatement(sql)) {
+
+            ps.setInt(1, id);
+            ps.executeUpdate();
+            importer();
+
+        } catch (Exception ex) {
+            JOptionPane.showMessageDialog(this, "Erreur : " + ex.getMessage());
+        }
+    }
+}

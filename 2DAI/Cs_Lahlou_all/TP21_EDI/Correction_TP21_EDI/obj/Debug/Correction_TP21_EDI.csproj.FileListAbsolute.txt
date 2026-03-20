@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\bin\Debug\Correction_TP21_EDI.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\bin\Debug\Correction_TP21_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\bin\Debug\Correction_TP21_EDI.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.login.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.Profile.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.Register.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\1 année\TP\Correction_TPS\VS\Correction_TP21_EDI\obj\Debug\Correction_TP21_EDI.pdb
