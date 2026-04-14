@@ -1,0 +1,117 @@
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\ED_2DAI_TP-9_Correction.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\ED_2DAI_TP-9_Correction.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\ED_2DAI_TP-9_Correction.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\Npgsql.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Text.Json.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Threading.Channels.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.ValueTuple.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\Npgsql.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Collections.Immutable.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Text.Json.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Threading.Channels.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\bin\Debug\System.ValueTuple.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\obj\Debug\ED_2DAI_TP-9_Correction.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\obj\Debug\ED_2DAI_TP_9_Correction.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\obj\Debug\ED_2DAI_TP_9_Correction.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\obj\Debug\ED_2DAI_TP-9_Correction.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\obj\Debug\ED_2DAI_TP-9_Correction.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\obj\Debug\ED_2DAI_TP-9_Correction.csproj.CopyComplete
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\obj\Debug\ED_2DAI_TP-9_Correction.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-9_Correction\obj\Debug\ED_2DAI_TP-9_Correction.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\ED_2DAI_TP-9_Correction.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\ED_2DAI_TP-9_Correction.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\ED_2DAI_TP-9_Correction.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\Npgsql.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Text.Json.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Threading.Channels.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.ValueTuple.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\Npgsql.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Collections.Immutable.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Text.Json.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Threading.Channels.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\bin\Debug\System.ValueTuple.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\obj\Debug\ED_2DAI_TP-9_Correction.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\obj\Debug\ED_2DAI_TP_9_Correction.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\obj\Debug\ED_2DAI_TP_9_Correction.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\obj\Debug\ED_2DAI_TP-9_Correction.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\obj\Debug\ED_2DAI_TP-9_Correction.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\obj\Debug\ED_2DAI_TP-9_Correction.csproj.CopyComplete
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\obj\Debug\ED_2DAI_TP-9_Correction.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Correction\Vs\ED_2DAI_TP-10_Correction\obj\Debug\ED_2DAI_TP-9_Correction.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\ED_2DAI_TP-9_Correction.exe.config
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\ED_2DAI_TP-9_Correction.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\ED_2DAI_TP-9_Correction.pdb
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\Npgsql.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Text.Json.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Threading.Channels.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.ValueTuple.dll
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\Npgsql.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Collections.Immutable.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Text.Json.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Threading.Channels.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\bin\Debug\System.ValueTuple.xml
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\obj\Debug\ED_2DAI_TP-9_Correction.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\obj\Debug\ED_2DAI_TP_9_Correction.Form1.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\obj\Debug\ED_2DAI_TP_9_Correction.Properties.Resources.resources
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\obj\Debug\ED_2DAI_TP-9_Correction.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\obj\Debug\ED_2DAI_TP-9_Correction.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\obj\Debug\ED_2DAI_TP-9_Correction.csproj.CopyComplete
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\obj\Debug\ED_2DAI_TP-9_Correction.exe
+C:\Users\pc\Desktop\Amine\My office\BOULOT\Enseignement\BTS\DAI\EDI\2 année\TP\Ennonce\PDF\EDI_2DAI_TP-10_CRUD_APP-COMPLETE_Jointure\VS DESIGN\obj\Debug\ED_2DAI_TP-9_Correction.pdb
